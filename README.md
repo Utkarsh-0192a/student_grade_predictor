@@ -66,7 +66,7 @@ A **Streamlit Web App** was developed for user interaction. Users can input feat
 ### **How to Run the App**
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Utkarsh-0192a/student_grade_predictor/)
+   git clone https://github.com/Utkarsh-0192a/student_grade_predictor
    ```
 2. Run the Streamlit app:
    ```bash
