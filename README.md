@@ -18,11 +18,11 @@ The goal of this project is to predict a student's final grade based on various 
   - Trained the model on the training set and evaluated performance on the test set.
 
 ### **3. Evaluation Metrics**
-- **R² Score**: Achieved a score of **0.89**, indicating that the model explains 83% of the variance in the target variable.
+- **R² Score**: Achieved a score of **0.89**, indicating that the model explains 89% of the variance in the target variable.
 - **RMSE**: The Root Mean Squared Error was calculated to measure prediction accuracy.
 
 ### **4. Feature Importance Analysis**
-- Analyzed feature importance using the Random Forest's built-in feature importance metric.
+- Analyzed feature importance using the Desicion tree built-in feature importance metric.
 - Visualized the contributions of each feature to the final predictions.
 
 ---
